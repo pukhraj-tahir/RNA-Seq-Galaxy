@@ -1,0 +1,17 @@
+# Large files
+*.bam
+*.bai
+*.fastq
+*.fastq.gz
+*.fasta
+*.gtf.gz
+*.bigwig
+*.bw
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
